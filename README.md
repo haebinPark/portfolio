@@ -170,8 +170,6 @@
 <br />
 ![Nice to미츄meetU!](https://github.com/haebinPark/meetU/assets/73635024/17549761-f517-463e-9dce-93a36809d6e2)
 
-<br />  
-
 </div>
 </details>
 
